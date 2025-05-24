@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fef9f6;
+  color: #333;
+  line-height: 1.6;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.hero {
+  background-color: #6b3e26;
+  color: white;
+  padding: 60px 20px;
+}
+
+.hero h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.2em;
+}
+
+.mission {
+  padding: 40px 20px;
+}
+
+.mission h2 {
+  font-size: 2em;
+  color: #6b3e26;
+  margin-bottom: 15px;
+}
+
+footer {
+  background-color: #ddd;
+  color: #444;
+  padding: 15px;
+  font-size: 0.9em;
+  margin-top: 40px;
+}
