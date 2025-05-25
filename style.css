@@ -45,3 +45,21 @@ footer {
   font-size: 0.9em;
   margin-top: 40px;
 }
+
+
+.about {
+  padding: 40px 20px;
+  background-color: #fff3e6;
+}
+
+.about h2 {
+  font-size: 2em;
+  color: #6b3e26;
+  margin-bottom: 15px;
+}
+
+.about p {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.1em;
+}
